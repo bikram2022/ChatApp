@@ -1,0 +1,32 @@
+.login-wrapper{
+    display: flex;
+    font-family: 'Assistant', sans-serif;
+}
+.login-form{
+    margin-top: 100px;
+    flex: 1;
+}
+.login-image{
+    flex: 1;
+    margin: 30px;
+}
+.image{
+    width: 800px;
+}
+.login-header{
+    text-align: center;
+}
+.login-button{
+    height: 40px;
+    width: 200px;
+}
+#login-email-id{
+    height: 40px;
+    width: 300px;
+    text-indent: 10px;
+}
+#login-pass{
+    height: 40px;
+    width: 300px;
+    text-indent: 10px;
+}

@@ -1,0 +1,36 @@
+.home-wrapper {
+    padding-left: 20px;
+}
+
+.home-img {
+    position: absolute;
+    right: 40px;
+    height: 500px;
+    padding-top: 40px;
+}
+
+.home-intro-text {
+    padding-top: 150px;
+    display: inline-block;
+}
+
+.home-intro-text button {
+    margin-top: 20px;
+}
+
+.home-intro-text h1 {
+    margin-top: 20px;
+}
+
+.home-intro-text p {
+    margin-top: 20px;
+}
+
+.home-intro-text button {
+    height: 40px;
+    width: 100px;
+
+}
+.button{
+    background-color:cornsilk;
+}

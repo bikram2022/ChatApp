@@ -1,0 +1,55 @@
+.wrapper{
+    display: flex;
+    font-family: 'Assistant', sans-serif;
+}
+.form-wrapper{
+    flex: 1;
+    left: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+.form-group input {
+    width: 200px;
+    height: 20px;
+}
+.signup-label {
+    font-size: 20px;
+}
+.form-wrapper button{
+    font-size: large;
+}
+.signup-profile-img{
+    width: 150px;
+    height: 140px;
+    border-radius: 50%;
+}
+.add-img-icon{
+    width: 30px;
+    height: 30px;
+    top: 320px;
+    right: 43%;
+    cursor: pointer;
+}
+.signup-image{
+    width: 700px;
+    margin: 40px;
+}
+.signup-button{
+    height: 40px;
+    width: 200px;
+}
+#signup-name{
+    height: 40px;
+    width: 300px;
+    text-indent: 10px;
+}
+#signup-email-id{
+    height: 40px;
+    width: 300px;
+    text-indent: 10px;
+}
+#signup-pass{
+    height: 40px;
+    width: 300px;
+    text-indent: 10px;
+}
